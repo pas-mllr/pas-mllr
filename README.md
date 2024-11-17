@@ -12,12 +12,6 @@ I've represented my firm at major tech events, including an international tech c
 
 I'm a volunteer board member at **TechLabs Rotterdam**, where I help provide free digital education. I lead the AI track, guiding groups through the basics of AI and pushing forward initiatives that bring accessible knowledge to people ready to take the next step. 
 
-### Current Projects & Interests
-
-- **AI Projects**: Helping finance and tax teams work smarter with AI.
-- **Non-Profit Work**: Digital skills education
-- **Fitness and Survival**: Focusing on getting fit and learning practical skills.
-
 ### Technologies & Tools
 
 - **AI/ML**: OpenAI API (GPT-4, Whisper), PyTorch, Transformers, Diffusers.
