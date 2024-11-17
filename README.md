@@ -15,7 +15,7 @@ I'm a volunteer board member at **TechLabs Rotterdam**, where I help provide fre
 ### Current Projects & Interests
 
 - **AI Projects**: Helping finance and tax teams work smarter with AI.
-- **Non-Profit Work**: Digital marketing, education programs, and volunteer onboarding.
+- **Non-Profit Work**: Digital skills education
 - **Fitness and Survival**: Focusing on getting fit and learning practical skills.
 
 ### Technologies & Tools
