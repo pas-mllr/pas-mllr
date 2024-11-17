@@ -2,22 +2,20 @@
 
 ### About Me
 
-I'm an independent tech consultant specializing in AI and digital transformation, with extensive experience not only in consulting but also in banking and government. After over a decade in consulting, I went solo to help businesses make real use of emerging tech, particularly AI.
+I'm an independent tech consultant specializing in AI and digital transformation. After over a decade in consulting, I went solo to help businesses make real use of emerging tech, particularly AI.
 
-I run **Lurn Digital**, my consulting firm. Right now, I'm working with a large company to transform their tax and finance teams with AI. I also work with small businesses and non-profits to leverage technology effectively.
+I run **Lurn Digital**, my consulting firm. Currently, I'm working with a large company to transform their tax and finance teams using AI. I also support small businesses and non-profits, leveraging technology to drive impactful change.
 
-I've represented my firm at major tech events, including an international tech conference, joining the Dutch government-led delegation to discuss AI's role in shaping the future of industries.
+I've represented my firm at major tech events, including an international tech conference in Rio de Janeiro, Brazil, discussing AI's impact on industries as part of the Dutch government-led delegation.
 
 ### Community Involvement
 
-I'm a board member at a non-profit offering free digital education. I lead the AI track, guiding groups through the basics of AI. Recently, I represented my firm and the non-profit at an international tech conference as part of the Dutch government delegation, contributing to discussions on AI and the future of tech.
+I'm a volunteer board member at **TechLabs Rotterdam**, where I help provide free digital education. I lead the AI track, guiding groups through the basics of AI and pushing forward initiatives that bring accessible knowledge to people ready to take the next step. 
 
 ### Current Projects & Interests
 
 - **AI Projects**: Helping finance and tax teams work smarter with AI.
 - **Non-Profit Work**: Digital marketing, education programs, and volunteer onboarding.
-- **Memory Keeper App**: Building an AI app for personal story capture and organization.
-- **Generative AI Prototypes**: Developing various AI tools and prototypes.
 - **Fitness and Survival**: Focusing on getting fit and learning practical skills.
 
 ### Technologies & Tools
@@ -31,7 +29,4 @@ I'm a board member at a non-profit offering free digital education. I lead the A
 
 I'm interested in projects and collaborations, especially around tech and social impact.
 
-- [LinkedIn](https://www.linkedin.com/in/pascal-lurndigital)
-- [Email](mailto:pascal@lurndigital.com)
-
-Reach out—let's make an impact.
+[Connect on LinkedIn](https://www.linkedin.com/in/pascal-lurndigital) | [Email](mailto:pascal@lurndigital.com)
