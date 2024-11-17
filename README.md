@@ -6,13 +6,4 @@ I've represented my firm at major tech events, including an international tech c
 
 I'm a volunteer board member at **TechLabs Rotterdam**, where I help provide free digital education. I lead the AI track, guiding groups through the basics of AI and pushing forward initiatives that bring accessible knowledge to people ready to take the next step. 
 
-### Technologies & Tools
-
-- **AI/ML**: OpenAI API (GPT-4, Whisper), PyTorch, Transformers, Diffusers.
-- **Front-End Development**: Learning React, SHADCN, Tailwind CSS, TypeScript, TSX.
-- **Dev & Deployment**: Python, Node.js, Docker, FastAPI.
-- **Data Platforms**: Azure, Google Apps Script.
-
-### Let's Connect
-
 I'm interested in projects and collaborations, especially around tech and social impact.
