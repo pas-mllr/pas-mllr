@@ -1,5 +1,3 @@
-# Hi, I'm Pascal
-
 ### About Me
 
 I'm an independent tech consultant specializing in AI and digital transformation. After over a decade in consulting, I went solo to help businesses make real use of emerging tech, particularly AI.
