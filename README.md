@@ -1,4 +1,4 @@
-I'm an independent tech consultant specializing in AI and digital transformation. After over a decade in consulting, I went solo to help businesses make real use of emerging tech, particularly AI.
+I'm an independent tech consultant specializing in digital transformation. After over a decade in consulting, I went solo to help businesses make real use of emerging tech, particularly AI.
 
 I run **Lurn Digital**, my consulting firm. Currently, I'm working with a global energy company to help transform how tax & finance teams work. I also support small businesses and non-profits, leveraging technology to drive impactful change.
 
