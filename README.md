@@ -2,15 +2,27 @@
 
 📍 **Rotterdam 🇳🇱** | 🤖 **AI builder & advisor** | 💼 **Founder of [Lurn Digital](https://lurn.digital)**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square&logoColor=white)
+![Mistral](https://img.shields.io/badge/-Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Mintlify](https://img.shields.io/badge/-Mintlify-0D9373?style=flat-square&logo=mintlify&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logoColor=white)
+![Microsoft Foundry](https://img.shields.io/badge/-Microsoft%20Foundry-0078D4?style=flat-square&logoColor=white)
+![M365 Copilot](https://img.shields.io/badge/-M365%20Copilot-D83B01?style=flat-square&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/-Copilot%20Studio-742774?style=flat-square&logoColor=white)
+![Palantir Foundry](https://img.shields.io/badge/-Palantir%20Foundry-101113?style=flat-square&logo=palantir&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 > Independent builder putting AI to work in energy, finance and the public sector. After 10+ years of consulting, I went solo to ship the thing instead of just advising on it.
 
@@ -32,8 +44,6 @@
 - 🧾 **Global energy major** — ongoing engagement transforming tax & finance team workflows with AI.
 
 ## GitHub Activity
-
-![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pas-mllr&show_icons=true&theme=default)
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/pas-mllr)
 
@@ -64,18 +74,7 @@
 - Volunteer **board member at TechLabs Rotterdam**; lead AI curriculum.
 - Trusted on early-access programs for **Anthropic and OpenAI** (tier-5 developer access).
 - Founded Lurn Digital after **10+ years** of consulting at firms including Wood Mackenzie and IBFD.
-
-### Philosophy
-
-> "The interesting work is the hand-off — from demo to production, from pilot to audit-ready. I like that seam."
-
-<details>
-<summary>Random facts</summary>
-
 - Base: Rotterdam. Commutes to wherever the client is.
-- Speak Dutch, English, some German. Code in Python when no one's watching.
-- Runs workshops at TechLabs most weeks.
+- Speak Dutch, English, some German.
 - Coffee > espresso. Always.
-- Most satisfying moment: watching a tax controller smile at a demo.
-
 </details>
