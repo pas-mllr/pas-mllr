@@ -28,6 +28,17 @@
 
 🌍 **[lurn.digital](https://lurn.digital)** — my practice. I help teams move from "we should try AI" to "it runs in production and the audit team signed off."
 
+## Past Work & Speaking
+
+- 🎤 **Multi-Company AI Round Table, The Hague (Mar 2026)** — keynote on enterprise AI to ASML, KLM, Philips, Heineken, Rituals, Booking.com, Ahold, and others.
+- 🏨 **Booking.com Knowledge-Share, Amsterdam (Mar 2026)** — lead presenter on tax AI and IBFD integration; Booking sought out the engagement.
+- 🏛️ **NL-Brazil Tech Delegation, Web Summit Rio (Apr 2024)** — RVO government delegation; spoke on AI's impact on industry.
+- 🧾 **Fortune 50 energy major (Nov 2024 – present)** — strategic AI advisor to the VP Tax. Architected a 24-agent AI platform on Microsoft Foundry (incl. Claude models) for ~800 tax staff, now scaling to 15,000 Finance users. ~€7M projected savings across the business-case portfolio.
+- 🏢 **Deloitte (Oct 2014 – Sep 2024, 10 years)** — Manager, Technology Consulting. GenAI Taskforce lead for North & South Europe. 2,500+ training-seat engagements across multinational L&D programmes. Deloitte Talent Award for Leadership (2017).
+- 🎓 **TechLabs Rotterdam** — board member & AI track lead, ~100 students/year. Built curriculum, ran hiring for track leads.
+- 🇪🇺 **European Commission — Pact for Skills Ambassador (Dec 2020 – present)** — skills development for the EU workforce.
+- 🤖 **Agentics Foundation — Independent Contributor (Mar 2024 – present)** — democratising agentic AI education globally.
+
 ## Featured Projects
 
 ### Tax & AI
@@ -60,17 +71,6 @@
 
 - 🎓 **[thesis-replication-pipeline](https://github.com/pas-mllr/thesis-replication-pipeline)** — Automated academic thesis replication: 4-module pipeline (data collection → qualitative analysis → LaTeX generation → orchestration) for Dutch media path-dependence research.
 - 🔐 **[smart-lock-guest-access](https://github.com/pas-mllr/smart-lock-guest-access)** — Zero-dependency Node.js system for time-limited, one-time guest unlock links for Nuki/SwitchBot/Loqed smart locks. JWT auth, CLI wizard, interactive tests.
-
-### Past Work & Speaking
-
-- 🎤 **Multi-Company AI Round Table, The Hague (Mar 2026)** — keynote on enterprise AI to ASML, KLM, Philips, Heineken, Rituals, Booking.com, Ahold, and others.
-- 🏨 **Booking.com Knowledge-Share, Amsterdam (Mar 2026)** — lead presenter on tax AI and IBFD integration; Booking sought out the engagement.
-- 🏛️ **NL-Brazil Tech Delegation, Web Summit Rio (Apr 2024)** — RVO government delegation; spoke on AI's impact on industry.
-- 🧾 **Fortune 50 energy major (Nov 2024 – present)** — strategic AI advisor to the VP Tax. Architected a 24-agent AI platform on Microsoft Foundry (incl. Claude models) for ~800 tax staff, now scaling to 15,000 Finance users. ~€7M projected savings across the business-case portfolio.
-- 🏢 **Deloitte (Oct 2014 – Sep 2024, 10 years)** — Manager, Technology Consulting. GenAI Taskforce lead for North & South Europe. 2,500+ training-seat engagements across multinational L&D programmes. Deloitte Talent Award for Leadership (2017).
-- 🎓 **TechLabs Rotterdam** — board member & AI track lead, ~100 students/year. Built curriculum, ran hiring for track leads.
-- 🇪🇺 **European Commission — Pact for Skills Ambassador (Dec 2020 – present)** — skills development for the EU workforce.
-- 🤖 **Agentics Foundation — Independent Contributor (Mar 2024 – present)** — democratising agentic AI education globally.
 
 ## GitHub Activity
 
