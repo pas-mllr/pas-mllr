@@ -24,7 +24,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Independent builder putting AI to work in energy, finance and the public sector. After 10+ years of consulting, I went solo to ship the thing instead of just advising on it.
+> Forward deployed engineer for generative AI. After 10 years at Deloitte and a stint at Accenture, I went independent to ship the thing instead of just advising on it. Currently architecting multi-agent AI systems for a Fortune 50 energy major's global tax function — 24+ AI agents in production for ~800 users, scaling to 15,000.
 
 🌍 **[lurn.digital](https://lurn.digital)** — my practice. I help teams move from "we should try AI" to "it runs in production and the audit team signed off."
 
@@ -61,11 +61,16 @@
 - 🎓 **[thesis-replication-pipeline](https://github.com/pas-mllr/thesis-replication-pipeline)** — Automated academic thesis replication: 4-module pipeline (data collection → qualitative analysis → LaTeX generation → orchestration) for Dutch media path-dependence research.
 - 🔐 **[smart-lock-guest-access](https://github.com/pas-mllr/smart-lock-guest-access)** — Zero-dependency Node.js system for time-limited, one-time guest unlock links for Nuki/SwitchBot/Loqed smart locks. JWT auth, CLI wizard, interactive tests.
 
-### Past Work
+### Past Work & Speaking
 
-- 🏛️ **Dutch government delegation to Rio de Janeiro** — spoke on AI's impact on industry.
-- 🎓 **TechLabs Rotterdam** — volunteer board member, lead the AI track, free digital education.
-- 🧾 **Global energy major** — ongoing engagement transforming tax & finance team workflows with AI.
+- 🎤 **Multi-Company AI Round Table, The Hague (Mar 2026)** — keynote on enterprise AI to ASML, KLM, Philips, Heineken, Rituals, Booking.com, Ahold, and others.
+- 🏨 **Booking.com Knowledge-Share, Amsterdam (Mar 2026)** — lead presenter on tax AI and IBFD integration; Booking sought out the engagement.
+- 🏛️ **NL-Brazil Tech Delegation, Web Summit Rio (Apr 2024)** — RVO government delegation; spoke on AI's impact on industry.
+- 🧾 **Fortune 50 energy major (Nov 2024 – present)** — strategic AI advisor to the VP Tax. Architected a 24-agent AI platform on Microsoft Foundry (incl. Claude models) for ~800 tax staff, now scaling to 15,000 Finance users. ~€7M projected savings across the business-case portfolio.
+- 🏢 **Deloitte (Oct 2014 – Sep 2024, 10 years)** — Manager, Technology Consulting. GenAI Taskforce lead for North & South Europe. 2,500+ training-seat engagements across multinational L&D programmes. Deloitte Talent Award for Leadership (2017).
+- 🎓 **TechLabs Rotterdam** — board member & AI track lead, ~100 students/year. Built curriculum, ran hiring for track leads.
+- 🇪🇺 **European Commission — Pact for Skills Ambassador (Dec 2020 – present)** — skills development for the EU workforce.
+- 🤖 **Agentics Foundation — Independent Contributor (Mar 2024 – present)** — democratising agentic AI education globally.
 
 ## GitHub Activity
 
@@ -73,10 +78,10 @@
 
 ## What I'm Doing
 
-- **Putting AI into regulated industries** — the interesting engineering happens where compliance meets LLMs.
-- **Writing about it** — essays & case notes on [lurn.digital](https://lurn.digital).
-- **Teaching** — AI track at TechLabs Rotterdam; occasional conference & meetup talks.
-- **Shipping small tools** — if a client problem generalises, I try to open-source the generic piece.
+- **Scaling AI in regulated industries** — architecting multi-agent systems where compliance, governance, and GenAI Triage Boards are part of the build, not afterthoughts.
+- **Speaking & writing** — keynotes at cross-industry roundtables; essays & case notes on [lurn.digital](https://lurn.digital).
+- **Teaching** — AI track at TechLabs Rotterdam; EU Pact for Skills Ambassador; occasional conference talks.
+- **Shipping reusable tools** — if a client problem generalises, I open-source the generic piece.
 
 ## Latest Blog Posts
 
@@ -92,13 +97,15 @@
 
 ---
 
-### Recognition
+### Recognition & Background
 
-- Spoke on AI & industry as part of a **Dutch-government-led delegation** in Rio de Janeiro.
-- Volunteer **board member at TechLabs Rotterdam**; lead AI curriculum.
+- **MSc Strategic Management** — Rotterdam School of Management, Erasmus University (Strategic Management Consulting: 8.9/10, top-5 in class).
+- **Deloitte Talent Award for Leadership** (Mar 2017) — recognised during a 10-year tenure as Manager in Technology Consulting.
+- Keynoted to **ASML, KLM, Philips, Heineken, Booking.com, Ahold, Rituals** at cross-industry AI roundtables.
+- **2,500+ training-seat engagements** across multinational enterprise L&D programmes (Deloitte + Shell).
+- **European Commission Pact for Skills Ambassador** since Dec 2020.
 - Trusted on early-access programs for **Anthropic and OpenAI** (tier-5 developer access).
-- Founded Lurn Digital after **10+ years** of consulting at firms including Wood Mackenzie and IBFD.
+- Founded Lurn Digital after **15 years** of consulting at Deloitte, Accenture, and the Dutch Ministry of Finance.
 - Base: Rotterdam. Commutes to wherever the client is.
-- Speak Dutch, English, some German.
+- Dutch, English, some German.
 - Coffee > espresso. Always.
-</details>
