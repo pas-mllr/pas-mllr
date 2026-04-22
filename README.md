@@ -45,10 +45,21 @@
 - 📄 **[vasim-events-pdf-quote-pipeline](https://github.com/VasimEvents/vasim-events-pdf-quote-pipeline)** + **[rentman-canva](https://github.com/VasimEvents/rentman-canva)** — End-to-end Azure Functions pipeline: Rentman webhook → data extraction → Nunjucks/Canva templating → WeasyPrint PDF → SharePoint → Power Automate delivery.
 - ⚡ **[vasim-events-admin-automation](https://github.com/pas-mllr/vasim-events-admin-automation)** — Power Automate workflow automating event administration: Teams channels, SharePoint folders, and status updates on event confirmation.
 
+### Developer Tools & Frameworks
+
+- 🔌 **[m365-copilot-connector-framework](https://github.com/pas-mllr/m365-copilot-connector-framework)** — Production-grade pluggable TypeScript framework for building M365 Copilot connectors. Durable Functions orchestration, Graph JSON batching, retry middleware, checkpoint/resume, and Zod-validated config.
+- 🔍 **[tax-search-poc](https://github.com/pas-mllr/tax-search-poc)** — Multi-jurisdiction tax document search platform (BE/ES/DE) with vector embeddings, hybrid search, and 1,100+ indexed documents. FastAPI + pgvector, sub-100ms response times.
+- 📖 **[dutch-accounting-skills](https://github.com/pas-mllr/dutch-accounting-skills)** — Claude Code skills covering 10 areas of Dutch accounting, tax, payroll, and financial reporting with inline law citations and 2026 rates.
+
 ### Creative AI
 
 - 🎙️ **[podcast-ai-production-pipeline](https://github.com/pas-mllr/podcast-ai-production-pipeline)** + **[project-sydney-podcast-concept](https://github.com/pas-mllr/project-sydney-podcast-concept)** — AI podcast factory: YAML scripts → ElevenLabs TTS → Gemini Lyria music → DSP mixing → mastered audio. Includes a serialised fiction tax thriller concept.
 - 🎬 **[ai-video-production-pipeline](https://github.com/pas-mllr/ai-video-production-pipeline)** — Story-to-video generator using Google Gemini (script, casting, keyframes) and Veo models for rendered video scenes.
+
+### Other Projects
+
+- 🎓 **[thesis-replication-pipeline](https://github.com/pas-mllr/thesis-replication-pipeline)** — Automated academic thesis replication: 4-module pipeline (data collection → qualitative analysis → LaTeX generation → orchestration) for Dutch media path-dependence research.
+- 🔐 **[smart-lock-guest-access](https://github.com/pas-mllr/smart-lock-guest-access)** — Zero-dependency Node.js system for time-limited, one-time guest unlock links for Nuki/SwitchBot/Loqed smart locks. JWT auth, CLI wizard, interactive tests.
 
 ### Past Work
 
