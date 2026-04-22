@@ -28,14 +28,27 @@
 
 🌍 **[lurn.digital](https://lurn.digital)** — my practice. I help teams move from "we should try AI" to "it runs in production and the audit team signed off."
 
-## Current Projects
+## Featured Projects
 
-- 🧰 **[journalism-skills](https://github.com/pas-mllr/journalism-skills)** — Claude Code skills for OSINT & scroll-driven storytelling. 150+ investigation tools in one skill pack.
-- 📞 **[lurn-digital](https://github.com/pas-mllr/lurn-digital)** — A voice agent that answers the phone for my practice. FastAPI + LLMs.
-- 🔬 **[event-deep-research](https://github.com/pas-mllr/event-deep-research)** — LangGraph multi-agent system that extracts historical events into structured JSON timelines.
-- 🧑‍🏫 **[qulearnlabs-demo](https://github.com/pas-mllr/qulearnlabs-demo)** — Slides & notebooks from my QuLearnLabs talk on quantum + LLMs.
-- ⚙️ **[google-appscript-workflow](https://github.com/pas-mllr/google-appscript-workflow)** — Deploy-on-a-spreadsheet automation for accept/reject email workflows.
-- 🗣️ **[speaking](https://github.com/pas-mllr/speaking)** — Talks I've given & ones coming up.
+### Tax & AI
+
+- 🏗️ **[onetax-multi-agent-platform](https://github.com/pas-mllr/onetax-multi-agent-platform)** — Federated system of 32 AI agents and 7 workflows on Azure AI Foundry, orchestrating enterprise tax requests with governance and human-in-the-loop approval.
+- 🔗 **[opentp-transfer-pricing-graphrag](https://github.com/pas-mllr/opentp-transfer-pricing-graphrag)** + **[graphrag-knowledge-graph-workbench](https://github.com/pas-mllr/graphrag-knowledge-graph-workbench)** — Open-source transfer pricing digital twin across 20 jurisdictions indexed into a GraphRAG knowledge graph, with interactive 3D visualization (Next.js + Three.js).
+- 🔬 **[tax-deep-research-api](https://github.com/pas-mllr/tax-deep-research-api)** — Azure AI Foundry agent using o3-deep-research with Bing grounding, deployed as an SSE streaming REST API bridging frontier AI into M365 Copilot.
+- 🧠 **[tax-enterprise-research-agent](https://github.com/pas-mllr/tax-enterprise-research-agent)** — Enterprise-grade .NET 9 research agent combining deep research, Bing grounding, and Microsoft Graph for internal document search.
+- 📚 **[ibfd-tax-copilot-connector](https://github.com/pas-mllr/ibfd-tax-copilot-connector)** — Copilot connector ingesting IBFD international tax documents into Microsoft Graph for semantic search within M365 Copilot.
+- 🏰 **[tax-scenario-platform-vision](https://github.com/pas-mllr/tax-scenario-platform-vision)** — Five-layer computational model for multinational tax scenarios using Databricks, Neo4j, Temporal, and Linkurious.
+- 🇳🇱 **[dutch-income-tax-2025](https://github.com/pas-mllr/dutch-income-tax-2025)** — Automated Dutch income tax prep with bank transaction analysis, Moneybird API integration, and classification for IB-aangifte filing.
+
+### Event Management (VasimEvents)
+
+- 📄 **[vasim-events-pdf-quote-pipeline](https://github.com/VasimEvents/vasim-events-pdf-quote-pipeline)** + **[rentman-canva](https://github.com/VasimEvents/rentman-canva)** — End-to-end Azure Functions pipeline: Rentman webhook → data extraction → Nunjucks/Canva templating → WeasyPrint PDF → SharePoint → Power Automate delivery.
+- ⚡ **[vasim-events-admin-automation](https://github.com/pas-mllr/vasim-events-admin-automation)** — Power Automate workflow automating event administration: Teams channels, SharePoint folders, and status updates on event confirmation.
+
+### Creative AI
+
+- 🎙️ **[podcast-ai-production-pipeline](https://github.com/pas-mllr/podcast-ai-production-pipeline)** + **[project-sydney-podcast-concept](https://github.com/pas-mllr/project-sydney-podcast-concept)** — AI podcast factory: YAML scripts → ElevenLabs TTS → Gemini Lyria music → DSP mixing → mastered audio. Includes a serialised fiction tax thriller concept.
+- 🎬 **[ai-video-production-pipeline](https://github.com/pas-mllr/ai-video-production-pipeline)** — Story-to-video generator using Google Gemini (script, casting, keyframes) and Veo models for rendered video scenes.
 
 ### Past Work
 
