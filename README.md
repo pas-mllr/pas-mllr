@@ -24,7 +24,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Forward deployed engineer for generative AI. After 10 years at Deloitte and a stint at Accenture, I went independent to ship the thing instead of just advising on it. Currently architecting multi-agent AI systems for a Fortune 50 energy major's global tax function — 24+ AI agents in production for ~800 users, scaling to 15,000.
+> Forward deployed engineer for generative AI. After 10 years at Deloitte — managing teams of up to 10, closing €500K deals, and growing a global strategic account 17% YoY — I went independent to ship the thing instead of just advising on it. Currently the strategic AI advisor to a Fortune 50 VP Tax, one line from the Global CFO: I architect the systems, coach the new global head of tax technology, upskill the IT delivery teams, and influence enterprise architects and the GenAI Triage Board. 24+ agents in production for ~800 users, scaling to 15,000.
 
 🌍 **[lurn.digital](https://lurn.digital)** — my practice. I help teams move from "we should try AI" to "it runs in production and the audit team signed off."
 
@@ -33,8 +33,8 @@
 - 🎤 **Multi-Company AI Round Table, The Hague (Mar 2026)** — keynote on enterprise AI to ASML, KLM, Philips, Heineken, Rituals, Booking.com, Ahold, and others.
 - 🏨 **Booking.com Knowledge-Share, Amsterdam (Mar 2026)** — lead presenter on tax AI and IBFD integration; Booking sought out the engagement.
 - 🏛️ **NL-Brazil Tech Delegation, Web Summit Rio (Apr 2024)** — RVO government delegation; spoke on AI's impact on industry.
-- 🧾 **Fortune 50 energy major (Nov 2024 – present)** — strategic AI advisor to the VP Tax. Architected a 24-agent AI platform on Microsoft Foundry (incl. Claude models) for ~800 tax staff, now scaling to 15,000 Finance users. ~€7M projected savings across the business-case portfolio.
-- 🏢 **Deloitte (Oct 2014 – Sep 2024, 10 years)** — Manager, Technology Consulting. GenAI Taskforce lead for North & South Europe. 2,500+ training-seat engagements across multinational L&D programmes. Deloitte Talent Award for Leadership (2017).
+- 🧾 **Fortune 50 energy major (Nov 2024 – present)** — strategic AI advisor to the VP Tax (one line from Global CFO). Architected a 24-agent AI platform on Microsoft Foundry (incl. Claude models) for ~800 tax staff, now scaling to 15,000 Finance users. Coach and wingman to the new global head of tax technology. Upskill IT AI delivery teams on building governed AI systems. Authored the app-ownership control framework adopted as a reference model by adjacent departments. ~€7M projected savings across the business-case portfolio. Authored *Generative AI in Tax Authorities, 2023–2025* research paper.
+- 🏢 **Deloitte (Oct 2014 – Sep 2024, 10 years)** — Manager, Technology Consulting. Managed teams of up to 10. Grew a global strategic account 17% YoY (€500K largest deal). GenAI Taskforce lead for North & South Europe. 2,500+ training-seat engagements across multinational L&D programmes. Ran hiring panels for consultants. Deloitte Talent Award for Leadership (2017).
 - 🎓 **TechLabs Rotterdam** — board member & AI track lead, ~100 students/year. Built curriculum, ran hiring for track leads.
 - 🇪🇺 **European Commission — Pact for Skills Ambassador (Dec 2020 – present)** — skills development for the EU workforce.
 - 🤖 **Agentics Foundation — Independent Contributor (Mar 2024 – present)** — democratising agentic AI education globally.
