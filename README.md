@@ -39,6 +39,8 @@
 - 📚 **[ibfd-tax-copilot-connector](https://github.com/pas-mllr/ibfd-tax-copilot-connector)** — Copilot connector ingesting IBFD international tax documents into Microsoft Graph for semantic search within M365 Copilot.
 - 🏰 **[tax-scenario-platform-vision](https://github.com/pas-mllr/tax-scenario-platform-vision)** — Five-layer computational model for multinational tax scenarios using Databricks, Neo4j, Temporal, and Linkurious.
 - 🇳🇱 **[dutch-income-tax-2025](https://github.com/pas-mllr/dutch-income-tax-2025)** — Automated Dutch income tax prep with bank transaction analysis, Moneybird API integration, and classification for IB-aangifte filing.
+- 🔍 **[tax-search-poc](https://github.com/pas-mllr/tax-search-poc)** — Multi-jurisdiction tax document search platform (BE/ES/DE) with vector embeddings, hybrid search, and 1,100+ indexed documents. FastAPI + pgvector, sub-100ms response times.
+- 📖 **[dutch-accounting-skills](https://github.com/pas-mllr/dutch-accounting-skills)** — Claude Code skills covering 10 areas of Dutch accounting, tax, payroll, and financial reporting with inline law citations and 2026 rates.
 
 ### Event Management (VasimEvents)
 
@@ -48,8 +50,6 @@
 ### Developer Tools & Frameworks
 
 - 🔌 **[m365-copilot-connector-framework](https://github.com/pas-mllr/m365-copilot-connector-framework)** — Production-grade pluggable TypeScript framework for building M365 Copilot connectors. Durable Functions orchestration, Graph JSON batching, retry middleware, checkpoint/resume, and Zod-validated config.
-- 🔍 **[tax-search-poc](https://github.com/pas-mllr/tax-search-poc)** — Multi-jurisdiction tax document search platform (BE/ES/DE) with vector embeddings, hybrid search, and 1,100+ indexed documents. FastAPI + pgvector, sub-100ms response times.
-- 📖 **[dutch-accounting-skills](https://github.com/pas-mllr/dutch-accounting-skills)** — Claude Code skills covering 10 areas of Dutch accounting, tax, payroll, and financial reporting with inline law citations and 2026 rates.
 
 ### Creative AI
 
